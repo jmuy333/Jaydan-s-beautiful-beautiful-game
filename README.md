@@ -1,7 +1,7 @@
 # Arduino Reaction Time/Memory Game
 A beautiful, Arduino IDE based game developed by Jaydan Muyuela
 
-!!Meant to be played with the Adafruit Circuit Playground board!!
+Meant to be played with the Adafruit Circuit Playground board
 
 # How to play the game
 For a varying amount of time, 4 random neopixel colors will pop up.
