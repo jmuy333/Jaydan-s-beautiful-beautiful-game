@@ -1,5 +1,5 @@
-# Jaydan-s-beautiful-beautiful-game
-My beautiful game
+# Arduino Reaction Time/Memory Game
+A beautiful game developed by Jaydan Muyuela
 
 # How to play the game
 For a varying amount of time, 4 random neopixel colors will pop up.
